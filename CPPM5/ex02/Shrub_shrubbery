@@ -1,0 +1,15 @@
+.mainFolder
+├───folder_1
+├───folder_2
+├───folder_3
+│   └───folder_3_1
+│       ├───folder_3_1_1
+│       └───folder_3_1_2
+│           └───folder_3_1_2_1
+├───folder_4
+│   ├───folder_4_1
+│   └───folder_4_2
+├───folder_5
+├───folder_6
+├───folder_7
+└───folder_8

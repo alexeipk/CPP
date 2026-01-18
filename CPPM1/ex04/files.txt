@@ -1,0 +1,10 @@
+total 164
+drwxrwxrwx 1 alexeipk alexeipk   512 May 10 20:42 .
+drwxrwxrwx 1 alexeipk alexeipk   512 May  3 20:12 ..
+-rwxrwxrwx 1 alexeipk alexeipk  4091 May  2 21:28 Makefile
+-rwxrwxrwx 1 alexeipk alexeipk     0 May 10 20:42 files.txt
+-rwxrwxrwx 1 alexeipk alexeipk  2017 May  1 21:54 main.cpp
+-rwxrwxrwx 1 alexeipk alexeipk 81944 May 10 20:42 main.o
+-rwxrwxrwx 1 alexeipk alexeipk    35 May 10 20:42 onelinedblspace.txt
+-rwxrwxrwx 1 alexeipk alexeipk 69976 May 10 20:42 sed
+-rwxrwxrwx 1 alexeipk alexeipk    97 May 10 20:42 twolinesdblspace.txt
